@@ -1,4 +1,5 @@
 import { Router } from 'express';
+import { authorize } from 'passport';
 import { name, version } from '../../package.json';
 
 // Import your controllers here

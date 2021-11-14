@@ -75,6 +75,10 @@ initializeDB(() => {
 
   // Start server
   app.listen(config.port, () => {
-    console.log('\x1b[34m[API]', 'listening on port', config.port, '\x1b[0m');
+    console.log(
+      '\x1b[34m[API]',
+      'listening on port http://localhost:' + config.port,
+      '\x1b[0m'
+    );
   });
 });

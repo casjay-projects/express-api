@@ -1,0 +1,12 @@
+{
+  "extends": ["airbnb-typescript/base", "prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": ["error"],
+    "no-console": "off",
+    "no-underscore-dangle": "off",
+    "no-param-reassign": "off",
+    "consistent-return": "off",
+    "func-names": "off"
+  }
+}

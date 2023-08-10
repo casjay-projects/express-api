@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Starter project using Express + ES6 (Babel) + Mongoose + JWT auth",
   "main": "src/index.js",
-  "author": "CasjaysDev <node-devel@casjaysdev.com>",
+  "author": "CasjaysDev <node-devel@casjaysdev.pro>",
   "license": "MIT",
   "private": false,
   "scripts": {
